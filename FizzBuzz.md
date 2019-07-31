@@ -13,7 +13,7 @@ For numbers which are multiple of 3 as well 5, print “FizzBuzz” on the conso
 Fizz
 4
 Buzz
-6
+Fizz
 ...
 14
 FizzBuzz
